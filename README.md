@@ -5,9 +5,10 @@ My data science and analytics projects
 
 1. SQL supermarket analysis
 2. SQL chun analysis
-3. R programming- Pao Ying Chub
+3. R programming - Pao Ying Chub
 4. Looker GA4 Dashboard
 5. Linear Regregression Model using caret
+6. Python programming - Pao Ying Chub
 
 ## Contact Me
 Email: Anakorn.k@hotmail.co.th

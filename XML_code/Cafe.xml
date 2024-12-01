@@ -1,0 +1,57 @@
+<Cafe>
+  <Beverage>
+    <Item>
+      <Name>Coffee</Name>
+      <Price>$1.00</Price>
+    </Item>
+    <Item>
+      <Name2>Tea</Name2>
+      <Price2>$0.75</Price2>
+    </Item>
+    <Item>
+      <Name3>Hochicha</Name3>
+      <Price3>$0.50</Price3>
+    </Item>  
+  </Beverage>
+  
+  <Food>
+    <Item>
+      <Name>Breakfast_set</Name>
+      <Price>$5.00</Price>
+    </Item>
+    <Item>
+      <Name2>Lunch_set</Name2>
+      <Price2>$6.00</Price2>
+    </Item>  
+  </Food>
+
+  <Staff>
+    <Employee>
+      <Name>Jane</Name>
+      <Age>39</Age>
+      <Gender>Female</Gender>
+      <Job>Manager</Job>
+      <Salary>$5000</Salary>
+    </Employee>
+    <Employee>
+      <Name2>John</Name2>
+      <Age2>30</Age>
+      <Gender2>Male</Gender2>
+      <Job2>waiter</Job2>
+      <Salary2>$2500</Salary2>
+    </Employee>
+    <Employee>
+      <Name3>Jack</Name3>
+      <Age3>28</Age3>
+      <Gender3>Male</Gender3>
+      <Job3>Chef</Job3>
+      <Salary3>$4000</Salary3>
+    </Employee>
+    <Employee>
+      <Name4>Jill</Name4>
+      <Age4>35</Age4>
+      <Gender4>Female</Gender4>
+      <Job4>Barista</Job4>
+      <Salary4>
+  </Staff>
+</Cafe>

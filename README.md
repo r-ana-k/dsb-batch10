@@ -9,6 +9,7 @@ My data science and analytics projects
 4. Looker GA4 Dashboard
 5. Linear Regregression Model using caret
 6. Python programming - Pao Ying Chub
+7. XML code - Cafe data
 
 ## Contact Me
 Email: Anakorn.k@hotmail.co.th
